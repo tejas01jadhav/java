@@ -1,0 +1,9 @@
+package Subtraction;
+
+public class Subtraction {
+
+	public static void main(String[] args) {
+		int a=49;
+		int b=25;
+		int res =a-b;
+		System.out.println("result is "+res);
