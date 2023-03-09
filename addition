@@ -1,4 +1,4 @@
-public class multiplication{
+public class addition{
       
     public static void main (String[] args) {
     	int a=19;
