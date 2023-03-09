@@ -1,0 +1,10 @@
+public class divison {
+
+    public static void main (String[] args) {
+    	int a=84;
+    	int b=21;
+    	int res=a/b;
+    	System.out.println("result is "+res);
+      
+    }
+}
