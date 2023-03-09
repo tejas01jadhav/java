@@ -9,4 +9,5 @@ public class Subtraction {
 		System.out.println("result is "+res);
      
      }
+
 }
