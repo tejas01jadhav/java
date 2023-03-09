@@ -7,3 +7,6 @@ public class Subtraction {
 		int b=25;
 		int res =a-b;
 		System.out.println("result is "+res);
+     
+     }
+}
